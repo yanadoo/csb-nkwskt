@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yanadoo.github.io/csb-nkwskt/static/css/main.3e0932a4.chunk.css",
+    "main.js": "https://yanadoo.github.io/csb-nkwskt/static/js/main.7c4c33ff.chunk.js",
+    "main.js.map": "https://yanadoo.github.io/csb-nkwskt/static/js/main.7c4c33ff.chunk.js.map",
+    "runtime-main.js": "https://yanadoo.github.io/csb-nkwskt/static/js/runtime-main.9a23cdb6.js",
+    "runtime-main.js.map": "https://yanadoo.github.io/csb-nkwskt/static/js/runtime-main.9a23cdb6.js.map",
+    "static/js/2.f970b062.chunk.js": "https://yanadoo.github.io/csb-nkwskt/static/js/2.f970b062.chunk.js",
+    "static/js/2.f970b062.chunk.js.map": "https://yanadoo.github.io/csb-nkwskt/static/js/2.f970b062.chunk.js.map",
+    "index.html": "https://yanadoo.github.io/csb-nkwskt/index.html",
+    "static/css/main.3e0932a4.chunk.css.map": "https://yanadoo.github.io/csb-nkwskt/static/css/main.3e0932a4.chunk.css.map",
+    "static/js/2.f970b062.chunk.js.LICENSE.txt": "https://yanadoo.github.io/csb-nkwskt/static/js/2.f970b062.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a23cdb6.js",
+    "static/js/2.f970b062.chunk.js",
+    "static/css/main.3e0932a4.chunk.css",
+    "static/js/main.7c4c33ff.chunk.js"
+  ]
+}
